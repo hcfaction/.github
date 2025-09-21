@@ -6,14 +6,14 @@ We are taking the lead to offer the best quality in high versions with infinite 
 
 ▪︎ **Yup**: A high version hub core with countless featured systems.  
 ▪︎ **Sense**: A basic essentials plugin for commands and some tweaks.   
-▪︎ **HCTeams**: This hcf core contains different modules adapted for different prototypes of the game modes, with an infinity of content optimized for the best user experience in relation to the server consume.
-▪︎ **Globant**: An optimized uhc meetup core, with many scenarios and features with fresh updates.
-▪︎ **Russia**: An advanced practice core with featured systems to enhance the experience of our users.
+▪︎ **HCTeams**: This hcf core contains different modules adapted for different prototypes of the game modes, with an infinity of content optimized for the best user experience in relation to the server consume.\n
+▪︎ **Globant**: An optimized uhc meetup core, with many scenarios and features with fresh updates.\n
+▪︎ **Russia**: An advanced practice core with featured systems to enhance the experience of our users.\n
 ▪︎ **Discord Bot**: Featured discord bot with support systems.  
 
 📑 **Network Information**  
 **Server IP:** [pvplab.us](https://namemc.com/search?q=PvPLab.us) `Versions: 1.7.10 to 1.8.9`  
-**Website:** [www.pvplab.us](https://www.PvPLab.us)
+**Website:** [www.pvplab.us](https://www.PvPLab.us) \n
 **Community:** [discord](https://discord.gg/hcfaction)
 
 ## **💼 Interested in our project?**  
