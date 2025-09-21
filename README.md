@@ -1,6 +1,6 @@
 # ⛄ PvPLab Network    
   
-PvPLab is a ambicious project dedicated to boxp and player vs environment game modes.  
+PvPLab is a ambicious project dedicated to player vs player gamemodes.  
 We are taking the lead to offer the best quality in high versions with infinite content.  
 
 ▪︎ **Yup**: A high version hub core with countless featured systems.  
