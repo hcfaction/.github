@@ -1,6 +1,5 @@
-# 🎃 Ongoing projects  
+# ⛄ PvPLab Network    
   
-⛄ **PvPLab Network**  
 PvPLab is a ambicious project dedicated to boxp and player vs environment game modes.  
 We are taking the lead to offer the best quality in high versions with infinite content.  
 
